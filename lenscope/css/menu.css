@@ -1,0 +1,24 @@
+.menu-main {
+    width: 100%;
+    background-color: var(--azul);
+    padding: 8px;
+    text-align: center;
+    position: relative;
+    z-index: 2;
+}
+
+.emogi {
+    position: absolute;
+    width: 100px;
+    z-index: 1;
+    margin-top: -4rem;
+}
+
+@media (max-width: 960px) {
+    .menu-main h3 {
+        font-size: 12px;
+    }
+    .emogi {
+        width: 80px;
+    }
+}

@@ -1,0 +1,89 @@
+.vitrine-de-contatos {
+    display: flex;
+    width: var(--lagura-toda);
+    align-items: center;
+    text-align: center;
+}
+
+.formas-de-contato {
+    padding-left: 100px;
+    padding-right: 100px;
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    border-radius: 20px;
+    margin-left: 3rem;
+    justify-content: space-between;
+    background-color: var(--preto-medio);
+}
+
+.contatos {
+    cursor: pointer;
+    border-radius: 40px;
+    display: grid;
+    justify-content: space-around;
+    width: 45%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-color: var(--agenda-txt);
+    border: 5px solid var(--vermelho);
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.contatos:hover {
+    box-shadow: 8px 6px var( --vermelho);
+}
+
+.contato h3 {
+    padding: 10px;
+    color: var(--branco)
+}
+
+.icones {
+    align-items: center;
+    width: 90px;
+}
+
+.info {
+    text-align: center;
+    background-color: var(--prata);
+    width: 100%;
+}
+
+li {
+    list-style: none;
+    text-align: center;
+    margin-left: 1rem;
+    color: var(--vermelho);
+}
+
+ul {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin-left: 3rem;
+}
+
+@media (max-width: 860px) {
+    .contatos {
+        display: flex;
+        justify-content: space-around;
+        width: 30%;
+        margin-left: auto;
+        padding-top: 5%;
+        padding-bottom: 5%;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .formas-de-contato {
+        padding-left: 10px;
+        padding-right: 10px;
+        margin-left: 0rem;
+        margin-right: 0rem;
+    }
+    .icones {
+        width: 40px;
+        height: 40px;
+    }
+}

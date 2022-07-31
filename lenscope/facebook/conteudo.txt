@@ -1,0 +1,22 @@
+Conteúdos de texto para serem utilizados nas propagandas
+
+Possuindo o cuidado e tecnologia desenvolvida pela Lenscope as lentes Multifocal Tokai Resonas foram criadas para atender o público que necessita de 4 a 8 graus
+de correção, podendo ser aplicadas a qualquer armação,  as lentes Lenscope permitem o uso de um acessório que combina com seu estilo, fornecendo a possibilidade 
+de manter a sua armação ou adquirir uma nova do nosso acervo que está pronto para atender a todos os gostos, nosso modelo de negócio permite fornecer um produto 
+a baixo custo (R$ 666,00), com delivery e atendimento online para uma melhor experiência e maior comodidade, pensando na agilidade estimamos um prazo de entrega 
+de até 5 dias, nossa tecnologia permite fornecer um produto discreto e despojado com  material: 1.67 e  indice ABBE: 45, além de atender uma grade dióptrica: +8 
+a - 8 com até 4 de astigmatismo, aproveite nosso lançamento e confira nossas opções, temos mais produtos com ótimos preços!
+
+
+Chamadas: 
+Menor espessura maior proteção / Sistema leva e traz sustentável para proteção dos seus olhos / Enxergue o mundo melhor com uma fina lente de proteção
+
+
+Sobre os conteúdos visuais
+
+A   Landing Page foi desenvolvida no Visual Studio code, como extensão para escrita utilizou-se Emmit, Drácula e auto complete HTML CSS e JS, 
+os Icons foram retirados do site https://icon-icons.com/, para adaptação da página aos diversos tamanhos de tela foi utilizada a mídia @media (max-width )
+com ajuste entre 820 até 950px, as linguagens utilizadas na página são: HTML CSS e JS.
+
+Para edição da imagem foi utilizado o paint 3D foi aplicada cor preta no fundo, um filtro frio cor lavanda, a fonte gotic bald e gotic bald italic para a
+escrita na chamada da imagem, a figura foi retirada do google imagens.

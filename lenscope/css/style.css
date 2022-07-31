@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: brandon grotesque;
+}
+
+h1 {
+    font-size: 64px
+}
+
+h2 {
+    font-size: 36px;
+}
+
+h3 {
+    font-size: 28px;
+}
+
+:root {
+    /*header---.center*/
+    --tamanho-maximo: 1000px;
+    --margem: 0 auto;
+    --magem-esquerda: 0 2%;
+    /*about header p*/
+    --distancia-dentro-da-faixa-azul: 8px;
+    /*logo*/
+    --distancia-topo: 10px;
+    /*medidas das fonter no header*/
+    --tamanho-de-h2: 35px;
+    /*medidas de tela toda*/
+    --lagura-toda: 100%;
+    --altura-toda: 100%;
+    /*cores geral*/
+    --prata: #b8c6c7;
+    --cinza-escuro: #777777;
+    --branco: #fdfdfd;
+    --agenda-txt: #DFE3E5;
+    --vermelho: #ef4836;
+    --preto-medio: #3c3d41;
+    --cinza-claro: #eeeeee;
+    --cinza-medio: #838d8f;
+    --azul: #277cea;
+}
